@@ -64,7 +64,7 @@ a{
 .comment{
 	display:none;
 	position:absolute;
-	background: ivory;
+	background: hsl(60, 100%, 97%);
 	border:1px solid hsl(180, 15%, 40%);
 	border-radius:1em;
 	padding:.2em;
@@ -87,7 +87,7 @@ a{
 }
 
 .button:hover {
-	color: hsl(214, 41%, 78%);
+	color: hsl(214, 41%, 85%);
 }
 
 .button:hover ~ .page {
